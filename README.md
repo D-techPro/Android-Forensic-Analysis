@@ -73,7 +73,61 @@ The fake investment website was actually created.
 **•	Screen shorts**
 
 
+![Screenshot (1)](https://github.com/user-attachments/assets/b4fd7fb5-f192-48b6-a75f-b8c265e18b51)
 
 
 
 
+
+![Screenshot (2)](https://github.com/user-attachments/assets/0f2814a0-1d35-4030-af9f-2f0cd9e83b7b)
+
+![Screenshot (3)](https://github.com/user-attachments/assets/211c4af4-13fc-4a23-897d-79bc63940b31)
+
+
+![Screenshot (4)](https://github.com/user-attachments/assets/83083021-89e0-4130-a5db-b84ec6788f0e)
+
+
+
+
+
+![Screenshot (5)](https://github.com/user-attachments/assets/550a279a-23b2-4849-9af5-e4c9c96e9910)
+
+
+
+
+
+
+![Screenshot (6)](https://github.com/user-attachments/assets/eba4f06e-c725-482e-8ab9-d080d4e72764)
+
+
+
+
+
+
+
+
+![Screenshot (7)](https://github.com/user-attachments/assets/4e984cec-9320-4b27-98a4-26a5aec83e12)
+
+
+
+
+![Screenshot (8)](https://github.com/user-attachments/assets/25f4fe79-9df3-4ea7-a1a0-139917d33499)
+
+
+
+
+![Screenshot (9)](https://github.com/user-attachments/assets/7a70db3d-2fdf-4eae-b7ff-492b5a90815a)
+
+
+
+![Screenshot (10)](https://github.com/user-attachments/assets/f92a3e53-8c8f-444e-8354-71d4c192d7d3)
+
+
+
+![Screenshot (11)](https://github.com/user-attachments/assets/6c859796-73b1-4104-8999-bf215b3bb6e4)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/515a1aef-921a-482a-9f4b-135fa87c7238)
+![Screenshot (13)](https://github.com/user-attachments/assets/531ce328-0334-499d-b47b-92bbad340f9c)
+![Screenshot (14)](https://github.com/user-attachments/assets/257dce2a-b13a-48ce-aa25-e9c1108cb1c9)
+![Screenshot (15)](https://github.com/user-attachments/assets/a597d877-e60f-4d84-ae1a-eb3b69171951)
+![Screenshot (16)](https://github.com/user-attachments/assets/100158ca-b219-4961-bd4e-3ca249240b9e)
