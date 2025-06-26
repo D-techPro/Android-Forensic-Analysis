@@ -7,7 +7,8 @@ investment.
 The report outlines the methodologies and tools utilized, presents key findings, and
 provides recommendations for future preventative measures and legal actions.
 
-**Tools used:** . Autopsy, 7zip, Android forensic image\
+**Tools used:** . Autopsy, 7zip, Android forensic image
+
 **Methodology:** This encompassing evidence collection, examination, analysis, and reporting. An android image was extracted with 7zip extraction software, which was feed into Autopsy for analysis. The forensic investigation adhered to a rigorous, multi-phase methodology to ensure
 the integrity, authenticity, and admissibility of all collected digital evidence. This
 structured approach, adapted from established digital forensic principles, involved the
@@ -23,13 +24,15 @@ to ensure that no data on the original media was inadvertently altered during th
 imaging process.
 
 **•	Call logs:** various calls and phone numbers of the conspirators were recovered; this gives more insights into their deceitful act.
-**•	Message logs:**  these were also retrieved to ascertain and monitor the trend of communication and strategies in carrying out their elicit fraud.\
+**•	Message logs:**  these were also retrieved to ascertain and monitor the trend of communication and strategies in carrying out their elicit fraud.
+
 **•	Open Source Intelligence (OSINT) Gathering:**  Publicly available information
 was systematically collected from various online sources, including social media
 platforms, online forums, cryptocurrency communities, and news articles related
 to the scam. This intelligence helped in understanding the scam's promotion,
 identifying potential victims, and uncovering additional digital footprints of the
-perpetrators.\
+perpetrators.
+
 **•	Artifacts:** web histories, web cookies, web search were also collected this helps to know the tress of web visited by this perpetrator, and the type of search conducted.
 
 **2.	Examination:** Following the secure collection of data, the examination phase involved a meticulous and systematic processing of the acquired digital evidence to identify and extract information pertinent to the investigation. This phase was characterized by:
