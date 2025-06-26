@@ -13,7 +13,8 @@ the integrity, authenticity, and admissibility of all collected digital evidence
 structured approach, adapted from established digital forensic principles, involved the
 following key stages:
 
- **1.	collection/Acquisition:**\
+ **1.	collection/Acquisition:**
+ 
   **• Victim Device Acquisition:** Where available and permissible, forensic images of
 relevant storage media (e.g., the mobile phone, tablets) used by victims to interact with the fake website or communicate with
 the perpetrators were acquired. Strict chain of custody protocols were
@@ -49,6 +50,21 @@ including creation, modification, and access timestamps, was performed to
 reconstruct the chronological sequence of events. This helped in understanding
 when specific files were created, accessed, or altered, providing insights into the
 perpetrators' activities.
+
+**3.	Analysis:**
+
+Message Log analysis:
+2024-03-17 03:09:45 WAT
+Deduced the name of the alleged suspect to be Bro Sam from the message supposedly to be from his pastor.
+2024-03-17 03:19:10 WAT
+A scam idea was mention to be carried out
+2024-03-17 03:20:44 WAT 
+A fake investment crypto currency website was to be created to lure in innocent people
+2024-03-17 03:23:45 WAT
+A bitcoin wallet address to be used 16AtGJbaxL2kmzx4mW5ocpT2ysTWxmacWn. Which actually belong to Woodberry
+2024-03-17 04:29:40 WAT
+The fake investment website was actually created.
+
 
 
 
