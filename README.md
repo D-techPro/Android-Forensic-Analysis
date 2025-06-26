@@ -167,11 +167,13 @@ Sequel to the evidence above, it’s safe to say the suspect is suspected to be 
 Based on the findings of this investigation, the following recommendations are put
 forth to aid in ongoing efforts to combat such frauds, enhance cybersecurity, and
 protect potential victims:
+
 **Enhanced Public Awareness Campaigns:** Launch widespread public awareness
 campaigns to educate individuals about the red flags of investment scams,
 particularly those involving cryptocurrencies. Emphasize the importance of due
 diligence, skepticism towards unrealistic returns, and verification of platform
 legitimacy.
+
 **Strengthened Collaboration with Hosting Providers and Domain Registrars:**
 Foster closer collaboration between law enforcement agencies and internet
 service providers, hosting companies, and domain registrars to facilitate the
@@ -181,14 +183,16 @@ Improved Cryptocurrency Tracing Capabilities: Continue to invest in and
 develop advanced blockchain analytics tools and techniques to enhance the
 ability to trace illicit cryptocurrency flows, de-anonymize perpetrators, and
 identify associated entities. Encourage greater information sharing among
+
 **Blockchain intelligence firms and law enforcement**
 International Cooperation: Given the transnational nature of internet fraud and
 cryptocurrency scams, strengthen international cooperation among law
 enforcement agencies, regulatory bodies, and financial intelligence units to
 facilitate cross-border investigations, asset freezing, and extradition of
 perpetrators.
+
 **Regulatory Framework Development:** Advocate for the development and
-enforcement of robust regulatory frameworks for cryptocurrency platforms and
+enforcement of robust regulatory frameworks for cryptocurrency platforms and digital asset services, including mandatory KYC (Know Your Customer) and AML (Anti-Money Laundering) compliance, to prevent their exploitation by fraudsters.
 
 
 
