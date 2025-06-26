@@ -24,6 +24,7 @@ to ensure that no data on the original media was inadvertently altered during th
 imaging process.
 
 **•	Call logs:** various calls and phone numbers of the conspirators were recovered; this gives more insights into their deceitful act.
+
 **•	Message logs:**  these were also retrieved to ascertain and monitor the trend of communication and strategies in carrying out their elicit fraud.
 
 **•	Open Source Intelligence (OSINT) Gathering:**  Publicly available information
@@ -35,7 +36,9 @@ perpetrators.
 
 **•	Artifacts:** web histories, web cookies, web search were also collected this helps to know the tress of web visited by this perpetrator, and the type of search conducted.
 
-**2.	Examination:** Following the secure collection of data, the examination phase involved a meticulous and systematic processing of the acquired digital evidence to identify and extract information pertinent to the investigation. This phase was characterized by:
+**2.	Examination:** 
+
+Following the secure collection of data, the examination phase involved a meticulous and systematic processing of the acquired digital evidence to identify and extract information pertinent to the investigation. This phase was characterized by:
 
 **•	Data Carving and Recovery:** Advanced data carving techniques were employed
 to recover deleted files or fragments of files from unallocated space on acquired
