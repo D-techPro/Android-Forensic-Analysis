@@ -21,14 +21,14 @@ maintained throughout this process, and hardware write-blockers were utilized
 to ensure that no data on the original media was inadvertently altered during the
 imaging process.
 
-- **	Call logs:** various calls and phone numbers of the conspirators were recovered; this gives more insights into their deceitful act.
-- **	Message logs:** these were also retrieved to ascertain and monitor the trend of communication and strategies in carrying out their elicit fraud.\
-- ** Open Source Intelligence (OSINT) Gathering:** Publicly available information
+**•	Call logs:** various calls and phone numbers of the conspirators were recovered; this gives more insights into their deceitful act.
+**•	Message logs:**  these were also retrieved to ascertain and monitor the trend of communication and strategies in carrying out their elicit fraud.\
+**•	Open Source Intelligence (OSINT) Gathering:**  Publicly available information
 was systematically collected from various online sources, including social media
 platforms, online forums, cryptocurrency communities, and news articles related
 to the scam. This intelligence helped in understanding the scam's promotion,
 identifying potential victims, and uncovering additional digital footprints of the
 perpetrators.\
- - **Artifacts:** web histories, web cookies, web search were also collected this helps to know the tress of web visited by this perpetrator, and the type of search conducted.
+**•	Artifacts:** web histories, web cookies, web search were also collected this helps to know the tress of web visited by this perpetrator, and the type of search conducted.
 
 
