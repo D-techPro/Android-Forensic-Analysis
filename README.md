@@ -156,9 +156,11 @@ The core of the fraud involved the illicit acquisition of legitimate cryptocurre
 victims. Analysis of blockchain data and associated transactions revealed.
 
 **Conclusion**
+
 Sequel to the evidence above, it’s safe to say the suspect is suspected to be involved in the internet related fraud activities having links with international internet fraudsters. Although there is no evidence of committing the actual act of defrauding anyone yet but I guess he is in the process of achieving that.
 
 **Recommendations**
+
 Based on the findings of this investigation, the following recommendations are put
 forth to aid in ongoing efforts to combat such frauds, enhance cybersecurity, and
 protect potential victims:
