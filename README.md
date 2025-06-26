@@ -31,4 +31,24 @@ identifying potential victims, and uncovering additional digital footprints of t
 perpetrators.\
 **•	Artifacts:** web histories, web cookies, web search were also collected this helps to know the tress of web visited by this perpetrator, and the type of search conducted.
 
+**2.	Examination:** Following the secure collection of data, the examination phase involved a meticulous and systematic processing of the acquired digital evidence to identify and extract information pertinent to the investigation. This phase was characterized by:
+
+**•	Data Carving and Recovery:** Advanced data carving techniques were employed
+to recover deleted files or fragments of files from unallocated space on acquired
+disk images. This was crucial for uncovering hidden or intentionally removed
+evidence.
+
+**•	Targeted Keyword Searches:** Extensive keyword searches were conducted
+across all acquired data. Keywords included the name of the fake website,
+specific cryptocurrency names mentioned in the scam, known aliases of
+perpetrators, victim names, and terms commonly associated with investment
+schemes (e.g., 'ROI', 'guaranteed returns', 'withdrawal').
+
+**•	File System and Metadata Analysis:** A detailed analysis of file system metadata,
+including creation, modification, and access timestamps, was performed to
+reconstruct the chronological sequence of events. This helped in understanding
+when specific files were created, accessed, or altered, providing insights into the
+perpetrators' activities.
+
+
 
